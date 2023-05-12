@@ -1,0 +1,9 @@
+SimpleITK~=2.2.1
+dicom2nifti~=2.4.8
+matplotlib~=3.7.1
+nibabel~=5.1.0
+qimage2ndarray~=1.10.0
+scikit-image~=0.20.0
+PyQt5~=5.15.9
+tensorflow~=2.12.0
+numpy~=1.23.5
