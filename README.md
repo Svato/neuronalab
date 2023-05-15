@@ -19,6 +19,7 @@ This app was developed for MRI image analysis. UI of the app is displayed on ![M
    * File ->  Export Brain or click on icon 3. Then choose the path and filename of an image. Image is saved with the current settings (note that brain image can be exported only after Brain extractor checkbox was used)
 3. Export all images
    * File Export all to PNG or click on icon 2. Then choose path to save (note that all images that were generated are saved. If user used N4 correction or Brain extraction, all images will be included)
+   * The NIFTI files are automatically stored in the root directory from step 1 (input path)
 
 #### UI
 ![MRI API](./Images/4.png?raw=true "MRI APP")
